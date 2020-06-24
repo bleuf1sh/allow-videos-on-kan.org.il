@@ -7,5 +7,5 @@
 - Unzip anywhere on your computer
 - Visit in Chrome the address `chrome://extensions/`
 - Enable `Developer Mode` (top right)
-- `Load unpacked` and select the unzipped folder
+- Click `Load unpacked` and select the unzipped folder
 - Visit Kan and enjoy the new Tehran tv show <br> https://www.kan.org.il/page.aspx?landingPageId=1211 
