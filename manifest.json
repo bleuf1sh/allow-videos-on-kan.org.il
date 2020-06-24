@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Allow Videos on kan.org.il",
+  "description": "Allows videos to be played in USA from kan.org.il",
+  "author": "bleuf1sh",
+  "version": "0.1",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.kan.org.il/*"
+  ]
+}
